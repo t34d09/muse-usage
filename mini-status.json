@@ -1,1 +1,14 @@
-ewogICJ1cGRhdGVkX2F0IjogIjIwMjYtMTEtMDlUMjI6MDE6MTMrMDk6MDAiLAogICJjcHVfdXNlZF9wZXJjZW50IjogMzAsCiAgImdwdV91c2VkX3BlcmNlbnQiOiAxMiwKICAibG9hZF9hdmciOiBbMi41MiwgMi4wNCwgMi41OF0sCiAgIm1lbW9yeV91c2VkX3BlcmNlbnQiOiA2OSwKICAidXB0aW1lX3RleHQiOiAiM2QgMjJoIiwKICAiZGlza3MiOiBbCiAgICB7Im5hbWUiOiAi5YaF6JS1IiwgInRvdGFsX2diIjogMjI4LCAiZnJlZV9nYiI6IDU0LCAidXNlZF9wZXJjZW50IjogNzJ9LAogICAgeyJuYW1lIjogIkV4dHJlbWUgU1NEIiwgInRvdGFsX2diIjogMzcyNSwgImZyZWVfZ2IiOiAzNjM3LCAidXNlZF9wZXJjZW50IjogM30sCiAgICB7Im5hbWUiOiAiRXhvcyBYMTgiLCAidG90YWxfZ2IiOiAxNjc2MywgImZyZWVfZ2IiOiAxMTE4NywgInVzZWRfcGVyY2VudCI6IDM0fSwKICAgIHsibmFtZSI6ICJOVlIiLCAidG90YWxfZ2IiOiAzNzI1LCAiZnJlZV9nYiI6IDM2OTUsICJ1c2VkX3BlcmNlbnQiOiAxfQogIF0KfQo=
+{
+  "updated_at": "2026-11-09T22:01:13+09:00",
+  "cpu_used_percent": 30,
+  "gpu_used_percent": 12,
+  "load_avg": [2.52, 2.04, 2.58],
+  "memory_used_percent": 69,
+  "uptime_text": "3d 22h",
+  "disks": [
+    {"name": "内蔵", "total_gb": 228, "free_gb": 54, "used_percent": 72},
+    {"name": "Extreme SSD", "total_gb": 3725, "free_gb": 3637, "used_percent": 3},
+    {"name": "Exos X18", "total_gb": 16763, "free_gb": 11187, "used_percent": 34},
+    {"name": "NVR", "total_gb": 3725, "free_gb": 3695, "used_percent": 1}
+  ]
+}
